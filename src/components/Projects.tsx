@@ -19,24 +19,45 @@ const GithubIcon = (props: any) => (
 
 const projects = [
   {
-    title: "MERN Moving Company Project",
-    description: "A comprehensive Moving Company management system built with the MERN stack. Features full architectural scaffolding, testing, and deployment workflows.",
-    tech: ["MongoDB", "Express", "React", "Node.js"],
-    github: "#",
-    live: "#"
+    title: "Alpha Desk",
+    description: "A modern desk management and support application.",
+    tech: ["Next.js", "React", "Tailwind CSS", "Claude Code"],
+    github: "https://github.com/mukeshlivestrong/alpha-desk",
+    live: "https://alpha-desk-8c5yqe9cd-mukeshlivestrong-8803s-projects.vercel.app/"
+  },
+  {
+    title: "Spiritual Services Platform",
+    description: "A comprehensive platform for offering spiritual services online.",
+    tech: ["Next.js", "React", "Tailwind CSS", "v0 / Vercel"],
+    github: "https://github.com/mukeshlivestrong/v0-spiritual-services-platform",
+    live: "https://v0-spiritual-services-platform.vercel.app/"
+  },
+  {
+    title: "Employee Management System",
+    description: "A robust full-stack system for managing employee records, tracking attendance, and streamlining HR operations.",
+    tech: ["Next.js", "React", "Tailwind CSS", "Antigravity"],
+    github: "https://github.com/flyingfalcon99/full-stack-employee-management-system",
+    live: "https://full-stack-employee-management-syst-khaki.vercel.app/"
+  },
+  {
+    title: "Taxi Ride App",
+    description: "A dynamic ride-booking application allowing users to request, track, and manage taxi rides seamlessly.",
+    tech: ["Next.js", "React", "Tailwind CSS", "Antigravity"],
+    github: "https://github.com/flyingfalcon99/Taxi-Ride-Booking-App",
+    live: "https://taxi-ride-booking-app.vercel.app/"
   },
   {
     title: "LearnEase Pro LMS",
     description: "Full-stack Learning Management System with role-based dashboards (Admin, Faculty, Learner), real-time chat interface, and secure authentication.",
-    tech: ["Next.js", "Tailwind", "Socket.io", "MongoDB"],
-    github: "#",
+    tech: ["Next.js", "Tailwind", "Socket.io", "MongoDB", "Antigravity"],
+    github: "https://github.com/flyingfalcon99/LearnEasePro",
     live: "#"
   },
   {
     title: "GenAI-powered KYC Platform",
     description: "A banking platform utilizing agentic AI for synthetic data generation and automated test suites, built to handle complex KYC and AML requirements.",
-    tech: ["React", "Node.js", "Jest", "GenAI APIs"],
-    github: "#",
+    tech: ["React", "Node.js", "Jest", "GenAI APIs", "Antigravity"],
+    github: "https://github.com/flyingfalcon99/kyc-aml-testing-platform",
     live: "#"
   }
 ];
