@@ -3,6 +3,14 @@ import { motion } from "framer-motion";
 
 const skillCategories = [
   {
+    title: "Developer Focused AI Tools",
+    skills: ["Claude Code", "Antigravity", "VS Code + Copilot", "Cursor", "V0", "Bolt", "Manus", "Devin", "Viktor"]
+  },
+  {
+    title: "Agentic AI Tools",
+    skills: ["LangChain", "LangGraph/LangSmith", "LangFuse", "LangFlow", "Amazon Bedrock", "CrewAI"]
+  },
+  {
     title: "MERN & Frontend",
     skills: ["React", "Next.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS", "Framer Motion"]
   },

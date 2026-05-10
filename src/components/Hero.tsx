@@ -69,10 +69,13 @@ export default function Hero() {
             Principal Full-Stack Engineer & Fintech Solutions Architect
           </h2>
           
-          <p className="text-lg text-muted-foreground/80 max-w-2xl mb-12 leading-relaxed">
+          <p className="text-lg text-muted-foreground/80 max-w-2xl mb-4 leading-relaxed">
             With over 20 years of experience building highly scalable, low-latency enterprise solutions. 
             Specializing in modernizing monolithic architectures into cloud-native microservices using 
             Java, Spring Boot, Kafka, and the MERN stack.
+          </p>
+          <p className="text-lg text-muted-foreground/80 max-w-2xl mb-12 leading-relaxed">
+            Prolific user of AI developer productivity tools, including Antigravity, Claude Code, and GitHub Copilot. Experienced in crafting precise, context-rich prompts to accelerate and optimize all phases of the Software Development Life Cycle (SDLC).
           </p>
 
           <div className="flex flex-wrap gap-4 items-center">
